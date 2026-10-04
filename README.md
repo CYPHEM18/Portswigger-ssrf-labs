@@ -13,7 +13,7 @@ Each lab folder contains:
 |---|-----|--------|----------------|
 | 01 | [Basic SSRF against the local server](lab-01-basic-ssrf-local-server/README.md) | ✅ Solved | Abusing a server-side URL-fetching parameter to reach internal-only endpoints |
 | 02 | [Basic SSRF against the local server](lab-02-basic-ssrf-local-server/README.md) | ✅ Solved | Basic SSRF against another back-end system |
-| 03 | TBD | ✅ Solved | |
+| 03 | [Basic SSRF against the local server](lab-03-ssrfblacklist-filter/README.md) | ✅ Solved | Basic SSRF again a web blacklist filter |
 
 ## Tools Used
 
